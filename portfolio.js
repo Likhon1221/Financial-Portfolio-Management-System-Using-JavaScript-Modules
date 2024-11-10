@@ -1,4 +1,4 @@
-// Task 2 - Create the portfolio module
+// Task 2. Create the portfolio module
 
 import {assets} from "./asset.js";
 
